@@ -29,4 +29,8 @@ public class Snacks {
         this.snackPrice = snackPrice;
     }
 
+    public String test(){
+        return "This is a test";
+    }
+
 }
